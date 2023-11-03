@@ -112,11 +112,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:pjh920607@gmail.com"
-    
+      url: "mailto:pjh920607@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Asmaly7"
+      url: "https://github.com/Asmaly7"
     
 
 # Site Footer
@@ -125,8 +124,8 @@ footer:
     
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/Asmaly7
-    -
+      url: https://github.com/Asmaly7
+    
     
   
 
